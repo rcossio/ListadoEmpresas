@@ -1,0 +1,2 @@
+Tener una columna con la provincia, como para hacer estadistica
+Asociar posibles emails a la empresa a traves de una busqueda de google
